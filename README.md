@@ -6,7 +6,7 @@ You may have guessed but I go by Corofides, and occasionally I do programming st
   
 ### 🌱 I’m currently learning.
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### I develop in
 
